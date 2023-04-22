@@ -18,7 +18,7 @@
 ## Xammp
  ### Installing Xampp
   - <a href = "https://www.apachefriends.org/">Click to install Xampp</a>
-  - Place your downloaded folder in `C:\xampp\htdocs`
+  - Place your unziped downloaded folder in `C:\xampp\htdocs`
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
